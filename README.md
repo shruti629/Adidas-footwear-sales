@@ -1,7 +1,9 @@
- #Adidas Footwear Sales Insights
+Adidas Footwear Sales Insights 
+
 Welcome to the Adidas Footwear Sales Insights! This provides analysis of Adidas footwear sales data to uncover key business insights and trends. 
 
-#Tools & Technologies
+Tools & Technologies
+
 Python
 
 Pandas
